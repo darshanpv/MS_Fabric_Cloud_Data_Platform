@@ -1,0 +1,12 @@
+faiss-cpu==1.7.4
+huggingface-hub 
+InstructorEmbedding==1.0.1
+langchain==0.1.6
+langchain-community==0.0.19
+langchain-core==0.1.22
+PyPDF2==3.0.1
+streamlit==1.30.0
+streamlit-chat==0.1.1
+transformers
+openai==1.10.0
+tiktoken
