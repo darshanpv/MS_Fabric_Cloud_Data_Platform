@@ -54,7 +54,7 @@ Check this [demo](https://www.youtube.com/watch?v=6ct2Cb71Wf0) to see data platf
 
 Before running the project, make sure you have the following prerequisites:
 
-- Python 3.7+
+- Python 3.7+ (tested on python 3.9.6)
 - LangChain
 - Streamlit
 - PyPDF2
@@ -68,7 +68,7 @@ Before running the project, make sure you have the following prerequisites:
 
    ```bash
    git clone https://github.com/darshanpv/MS_Fabric_Cloud_Data_Platform.git
-   cd MS_Fabric_Cloud_Data_Platform
+   cd MS_Fabric_Cloud_Data_Platform/app
    ```
 
 2. Install the required dependencies by running:
@@ -80,7 +80,7 @@ Before running the project, make sure you have the following prerequisites:
 
 4. Run the Streamlit app:
    ```bash
-   streamlit run app/tank_assistant.py
+   streamlit run tank_assistant.py
    ```
 
 5. Access the Gen-AI Assistant app by opening a web browser and navigating to the provided URL.

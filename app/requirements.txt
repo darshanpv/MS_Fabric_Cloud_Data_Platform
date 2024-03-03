@@ -1,7 +1,7 @@
-langchain==0.1.6
-langchain-community==0.0.25
-langchain-core==0.1.28
-streamlit==1.30.0
+faiss-cpu==1.8.0
+langchain==0.1.10
+streamlit==1.31.1
 streamlit-chat==0.1.1
 PyPDF2==3.0.1
-openai==1.10.0
+openai==1.13.3
+tiktoken==0.6.0
