@@ -54,7 +54,7 @@ Check this [demo](https://www.youtube.com/watch?v=6ct2Cb71Wf0) to see data platf
 
 Before running the project, make sure you have the following prerequisites:
 
-- Python 3.7+ (tested on python 3.9.6)
+- Python 3.7+ (Code has been tested on Python ver 3.9.6)
 - LangChain
 - Streamlit
 - PyPDF2
@@ -68,18 +68,19 @@ Before running the project, make sure you have the following prerequisites:
 
    ```bash
    git clone https://github.com/darshanpv/MS_Fabric_Cloud_Data_Platform.git
-   cd MS_Fabric_Cloud_Data_Platform/app
+   cd MS_Fabric_Cloud_Data_Platform
    ```
 
-2. Install the required dependencies by running:
+2. Create your virtual environemt to this folder(if needed) and install the required dependencies by running:
    ```bash
-   pip install -r requirements.txt
+   pip install -r app/requirements.txt
    ```
 
-3. Add your OpenAI API key in `config/openai_key' file
+3. Add your OpenAI API key in `app/config/openai_key' file
 
 4. Run the Streamlit app:
    ```bash
+   cd app
    streamlit run tank_assistant.py
    ```
 
@@ -87,9 +88,9 @@ Before running the project, make sure you have the following prerequisites:
 
 6. You can provide Gen-AI Assistant either with existing knowledge base or Upload your knowledge tarifacts using radio button provided in the sidebar of the application.
 
-7. Click the "Proceed" button to process the documents and generate vector embeddings.
+7. Select the "Existing Knolwledge Base" option and click the "Proceed" button to process the documents and generate vector embeddings.
 
-8. Interact with Gen-AI Assistant by typing your questions in the chat input box.
+8. Interact with Gen-AI Assistant by typing your questions in the chat input box. (e.g. "Can ball float valves and flapper valves be used together?")
 
 
 ## Contributors
