@@ -1,4 +1,4 @@
-# Fueling Innovation and efficiency using Microsoft fabric & AI
+# Fueling Innovation and efficiency using Microsoft Fabric
 ![The solution Banner](./images/header.png)
 
 ## Introduction
@@ -25,7 +25,7 @@ The high-level solution architecture of proposed solution is as shown below -
 
 **Reporting and Insights** - create impactful reports and discover ley insight from data
 
-Check this [demo](https://www.youtube.com/watch?v=6ct2Cb71Wf0) to see data platform in action.
+Check this [demo](https://youtu.be/wU65mxBvzw4) to see data platform in action.
 
 **Sample Screenshot**
 
