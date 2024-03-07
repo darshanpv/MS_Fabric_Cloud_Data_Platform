@@ -97,6 +97,8 @@ Before running the project, make sure you have the following prerequisites:
 ## Contributors
 
 - Purushottam Darshankar ([GitHub Profile](https://github.com/darshanpv))
+- Nidhi Neema
+- Vishal Kandale
 
 ## Contact
 
